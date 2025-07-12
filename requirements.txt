@@ -4,4 +4,9 @@ seaborn
 scikit-learn
 matplotlib
 streamlit
+datetime
+imblearn 
+xgboost
+sqlalchemy
+mysql-connector-python
 -e .
