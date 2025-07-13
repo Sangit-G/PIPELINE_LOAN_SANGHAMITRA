@@ -32,5 +32,7 @@ STEP WISE EXECUTION OF PIPELINE PROJECT FOR DETERMINING WHETHER A PERSON WILL RE
                           
                           .utils.py-Any functionalities that will be written in a common way, that can be used everywhere.
                           
-                      v)app.py-contains streamlit app code for running my model.
-                          
+                  v)app.py-contains streamlit app code for running my model.
+                  vi) Artifacts,Logs folders get created automatically when they gets triggered on model training as they contains train,test.raw data and every informations
+                  about each stages that gets invoked upon training.
+                  
